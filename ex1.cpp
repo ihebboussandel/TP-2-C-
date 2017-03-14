@@ -18,8 +18,7 @@ void RemplitA(int[]);
 void impA(int[],int);
 void trie(int[],int);
 
-/*
- * 
+/* 
  */
 int main(int argc, char** argv) {
  
