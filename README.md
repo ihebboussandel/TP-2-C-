@@ -27,10 +27,10 @@ nb qui sera le nombre d'éléments contenus dans la liste.
 tableau et un entier nb qui sera le nombre déléments contenus dans la liste.
 au départ (donc dans le constructeur),demande à l'utilisateur combien de notes il veut rentrer.On peut alors rajouter des élement dans la liste 
 <br>
-<b>- void ajoutNote(string,string,int)<b><br>
-<b>- void afficheListe()<b><br>
-<b>- void Reinitialise Tableau()<b><br>
-menu :
+<b>- void ajoutNote(string,string,int)</b><br>
+<b>- void afficheListe()</b><br>
+<b>- void Reinitialise Tableau()</b><br>
+<b>menu :</b><br>
 0. ajouter un note .
 1. afficher la liste des notes 
 2. refaire une novelle liste 
